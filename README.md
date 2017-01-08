@@ -3,7 +3,7 @@ Linux script to keep folder clean and clear
 
 ToDo:
 
-- change cron to crontab
+- change to user based anachron
 - finish alpha-release
 - choose between ctime, atime, mtime
 - add old files to archive instead of deleting them
