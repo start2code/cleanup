@@ -3,7 +3,6 @@ Linux script to keep folder clean and clear
 
 ToDo:
 
-- finish alpha-release
 - choose between ctime, atime, mtime
 - add old files to archive instead of deleting them
 - extract specific files from archive
@@ -14,3 +13,4 @@ ToDo:
 - add possibility to choose between terminal and GUI
 - add config file
 - change to user based anachron [DONE]
+- finish alpha-release [DONE]
